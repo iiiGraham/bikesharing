@@ -14,7 +14,7 @@ Each datapoint was viewed based on the entire dataset and also presented based o
 ### Most Rides Occur During Commuting Hours
 The majority of rides occur during typical commuting hours. Bike checkouts peak from 6am to 9am in the morning and peak again between 4pm and 7pm. Afternoon ridership tends to be higher than morning. This could indicate the bike sharing program is seen as a good alternative to other means of transportation in the evenings. It's possible people may be using bikes in the afternoons to travel farther than they would be in the morning, i.e. riding to dinner or to another location other than home after work. 
 
-![Ridership Peaks During Commuting Hours](Resources/story_1.PNG)
+![Ridership Peaks During Commuting Hours](Resources/story_1.png)
 
 ### Weekdays Have The Most Rider Activity
 Overall, ridership is the highest on weekdays. Afternoon ridership also increases later in the week (Thursday and Friday). This could be due to factors such as tourism with customers using the bikes to move around the city when visiting. It could also be a factor of people working shorter hours on Fridays and using the bikes at an earlier time than they would earlier in the week. 
@@ -28,33 +28,33 @@ From an operations perspective, lower ridereship during the workday could provid
 ### Rides Typically Take 20 Minutes or Less
 Over 78% of all rides analyzed were completed in 20 mintues or less. If we assume an average user is able to ride at 10mph this would tell us that the majority of rides were less than 5 miles. While the landscape of Des Moines is the same as New York City, knowing how far riders typically go in an urban environment can help guide projections for the number of stations to be built and station density in Des Moines. 
 
-![Rides are Typically 20 Minutes or Less](Resources/story_3.PNG)
+![Rides are Typically 20 Minutes or Less](Resources/story_3.png)
 
 ## User Gender Analysis
 
 ### Most Riders are Male
 The majority of users are male. A small portion of riders did not provide their gender, but even if we assume all "unknown" are female, males riders would still dominate the service. 
 
-![Men Use The Service More Than Women](Resources/story_4.PNG)
+![Men Use The Service More Than Women](Resources/story_4.png)
 
 Using this information we can reasonably assume that rolling out a bike sharing service in Des Moines would have higher adoption if Men were the initial target audience. Focusing on this market early would likely increase early adoption of the service. 
 
 ## Trip Duration is Unaffected by Gender
 While men use the service more than women, the typical length of a ride in unaffected by gender. This tells us that when designing a potential station layout stakeholders should focus on overall ridership data rather than making decisions, such as the distance between stations, based on gender metrics. 
 
-![Gender Does Not Effect Trip Duration](Resources/story_5.PNG)
+![Gender Does Not Effect Trip Duration](Resources/story_5.png)
 
 ## On Most Days Gender Ridership Occurs During the Same Hours
 During the week men and women have peak ridership during the same hours. Overall, female ridership still lags male during these peak hours. Stakeholders could focus on marketing strategies to increase female commuting riders to boost usage. 
 
 On the weekends we do see a spread in usage between men and women, with men using the service significantly more than women on Saturdays.
 
-![Men Ride More On The Weekends But Most High Use Times Are The Same Regardless of Gender](Resources/story_6.PNG)
+![Men Ride More On The Weekends But Most High Use Times Are The Same Regardless of Gender](Resources/story_6.png)
 
 ## Most Riders Are Subscribers - Regular Customers Ride More on Weekends
 The data shows that the majority of riders are subscribers. Subscriber rides mostly occur during the week, regardless of gender. The high number of subscribers likely indicates more consistent revenue for the bike sharing service which will help with finanial projections for the Des Moines project. 
 
-![Subscribers Are Mostly Men Who Ride on Weekdays](Resources/story_7.PNG)
+![Subscribers Are Mostly Men Who Ride on Weekdays](Resources/story_7.png)
 
 The data also shows that Customer rides do increase over the weekend. As touched on briefly in prior analysis, this may be a function of tourism or more people visiting areas where the bike stations are located. Using this data we can recommend that marketing strategies related to converting Customers to Subscribers would be best utilized on weekends. 
 
